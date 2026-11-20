@@ -1,0 +1,511 @@
+{
+  "historical_author": "館目未署",
+  "source_identity": "柏林國家圖書館 Slg. Unschuld 8368，PPN1867481944",
+  "source": "https://resolver.staatsbibliothek-berlin.de/SBB0003559B00000000",
+  "iiif_manifest": "https://content.staatsbibliothek-berlin.de/dc/PPN1867481944/manifest",
+  "source_rights_policy": "https://lab.sbb.berlin/dc/",
+  "dataset_version": "0.1.0",
+  "scan_count": 71,
+  "content_scan_count": 71,
+  "review_status": "initial-transcription",
+  "source_image_inventory": [
+    {
+      "image": 1,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0001/canvas",
+      "label": " -  [1]",
+      "sha256": "ff5c609e693c4f5073d938469fe46b2747457250245525d05b2cf206a289e1f7",
+      "content_role": "binding-or-endpaper"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0002/canvas",
+      "label": " -  [2]",
+      "sha256": "9f9dbc636c7db1550e88169f5ea59a1076a4e79894f5ab6b73bb75e1263bd0ab",
+      "content_role": "binding-or-endpaper"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0003/canvas",
+      "label": " -  [3]",
+      "sha256": "7972265cc95db3ec2ab4cf4f8de37dbc872ad6bf6df004423ea844bb9d8726dc",
+      "content_role": "binding-or-endpaper"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0004/canvas",
+      "label": " -  [4]",
+      "sha256": "dd847e3124ac8e552c6ef11f4dc7e6d6bfaff1dadb66e8206a29b6dca94f54c4",
+      "content_role": "binding-or-endpaper"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0005/canvas",
+      "label": "[1]r [5]",
+      "sha256": "3f6238fd96c3115cae64b904ff1afd3f0c9e46f165dc53f17c9882fa7766cd58",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0006/canvas",
+      "label": "[1]v [6]",
+      "sha256": "a1b781193a6d3cefb41e9e47d640a874e6a5115ddeddd10516e9ea1e1fbdf22e",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0007/canvas",
+      "label": "[2]r [7]",
+      "sha256": "374a5144082841cbf602c08f822448a214b6a496427a4967fc1628f4ae386feb",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0008/canvas",
+      "label": "[2]v [8]",
+      "sha256": "5fbf6076fd6b9002e7832997d8cf7d6177b49093f1df746ee3a96862c9a9fbf9",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0009/canvas",
+      "label": "[3]r [9]",
+      "sha256": "7611104220d35cc2e1404d31e2397f5e2832aff532eedc4fd8aed344c5264ae3",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0010/canvas",
+      "label": "[3]v [10]",
+      "sha256": "53f8ad83d1401d14e0f9a35ca63f045adbe8ce754a119e8e4ecafe41d3233374",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0011/canvas",
+      "label": "[4]r [11]",
+      "sha256": "e536a800551274fbc8bd936b2d5651e355041d7f1d5af5c96144aa3f2ecda27d",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0012/canvas",
+      "label": "[4]v [12]",
+      "sha256": "58fd9b8913d5535e25440a1321008a6e897b82dbcb9a57a12a7c6e0d5231d7e5",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0013/canvas",
+      "label": "[5]r [13]",
+      "sha256": "9c793538d4a9cbc1083d55375dc30a64ed6e3cd9cff54e057ebf2d5b61f5c88e",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0014/canvas",
+      "label": "[5]v [14]",
+      "sha256": "e84ab08aa426ac6fdfa4dd8ccc7685c0427f2247296db4d0ede14c0f6813e4bc",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0015/canvas",
+      "label": "[6]r [15]",
+      "sha256": "75563d7b785da87dccb984fc1480948109039c4a9dbf424149e22a071417b267",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0016/canvas",
+      "label": "[6]v [16]",
+      "sha256": "794c97147582419ba1c251325fda071d74a0da61fed88191ab9c259b685f1821",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0017/canvas",
+      "label": "[7]r [17]",
+      "sha256": "31e300c1eb02c1e6507000f396b443e13db1ccec5dce66e5a2ce6074e03bf12a",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0018/canvas",
+      "label": "[7]v [18]",
+      "sha256": "425ffe040c8029b505abfe114a91c3a49a8c215221cc0d57a4677ed66f130674",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0019/canvas",
+      "label": "[8]r [19]",
+      "sha256": "74b2687597dc4e894cc3ace8e359313ec5ba74f8cbac653e525991d181de816f",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0020/canvas",
+      "label": "[8]v [20]",
+      "sha256": "8ab3258844f06734f8d109104a9c0494a1d7c68b9b815ea2d3fa029e186446bf",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0021/canvas",
+      "label": "[9]r [21]",
+      "sha256": "42ef85780c47c7c021ae2bf2ab04d45ef19f463bdadbd4ad4244ccdcb44d7b6c",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0022/canvas",
+      "label": "[9]v [22]",
+      "sha256": "7b4c36194c77d01dc4166cc74a9b4e190d19bbbf32a16b1313a357bda5267dee",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0023/canvas",
+      "label": "[10]r [23]",
+      "sha256": "e56260dbd519cd7f98d251fef049a7488766ee3f6ee5ee1751f97c02dad0ba02",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0024/canvas",
+      "label": "[10]v [24]",
+      "sha256": "492d891f788f565d03474b5317ac293427eb18112bde30de768856cf5a62d255",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0025/canvas",
+      "label": "[11]r [25]",
+      "sha256": "1e28ac0e11babeb355c47d1f16e222d9994ad5dada4a74ceb2b58b5377d984d8",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0026/canvas",
+      "label": "[11]v [26]",
+      "sha256": "07ac8fa834bcfb63ca993b5134e04f0dd2a4826ea087c8f640230eb0dcd14ee8",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0027/canvas",
+      "label": "[12]r [27]",
+      "sha256": "cf8a4bf2ae44952b9a55bdf3bd3857ed7b4fcfbd7fb3b6630ddb83e584c3cd3c",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0028/canvas",
+      "label": "[12]v [28]",
+      "sha256": "017c9b1b428e7cee63f337b05bbcfdf2701c52b5b5a07e7fccb224c4fe9aea75",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0029/canvas",
+      "label": "[13]r [29]",
+      "sha256": "6748ec7ba2beb0aa5c8173517adf1ccdb9b814f8591321510d10b72c71ff3287",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0030/canvas",
+      "label": "[13]v [30]",
+      "sha256": "d5b6e3e96fcd7f121cd5383d20a6534b610754838da658d676ae42152d426e2d",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0031/canvas",
+      "label": "[14]r [31]",
+      "sha256": "39ad2c127a3c14d33763ba7d0a5052f54c923490dc24bf06bfd8cf78ed7f7b64",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0032/canvas",
+      "label": "[14]v [32]",
+      "sha256": "742867ec4c8f0cfa349aa9f4a93c780b183241f4a7abb88a48301aa978fc6277",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0033/canvas",
+      "label": "[15]r [33]",
+      "sha256": "ca81b11a423c4054630fbb1665e5626b4acd8c0c4235330ccc9201cc793ff0d1",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0034/canvas",
+      "label": "[15]v [34]",
+      "sha256": "b9e52bdbb4e7a8e6b29e44895e99d6937d5788056fed89acddbf4986f3404dca",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0035/canvas",
+      "label": "[16]r [35]",
+      "sha256": "21f1d2233154ab59d7d30605cc0894cda136b8aae74f44d5ef0170d999bebbba",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0036/canvas",
+      "label": "[16]v [36]",
+      "sha256": "9952d7fee42ee9099ce46b26e2a290bf637bd26da859584b7e6ff51065141ee0",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0037/canvas",
+      "label": "[17]r [37]",
+      "sha256": "7679c3153a76889b6e5dd62f90947738d0c0c67895c385d8d59f056f43481a78",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0038/canvas",
+      "label": "[17]v [38]",
+      "sha256": "9b6b1420bcdd670cece9eae2f3e195e6ae6d2b7c47eb86b7499c194fe996d054",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 39,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0039/canvas",
+      "label": "[18]r [39]",
+      "sha256": "085a9f0f1f6a2a3d92b891626aae013b44347373b022857bca0aca3b7766a6ca",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 40,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0040/canvas",
+      "label": "[18]v [40]",
+      "sha256": "9231d72e3c91953daac32a66a56da5c190925ef301e780beebf4f41773cfc735",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 41,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0041/canvas",
+      "label": "[19]r [41]",
+      "sha256": "98a505743526142c5f550c4ef5a2212ebfdf4f28fb903c5c6898d8a3ec6bad74",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 42,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0042/canvas",
+      "label": "[19]v [42]",
+      "sha256": "ceb0d0cc75f363266b2d37098ac3ec70cc4e0af75674b69ab132df2c1968ab4c",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 43,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0043/canvas",
+      "label": "[20]r [43]",
+      "sha256": "6c324c668ad3ab566d9698a1f56b046a9097dcd6b0e64e7f6be6ff9d87bd694e",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 44,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0044/canvas",
+      "label": "[20]v [44]",
+      "sha256": "25fbceedb0f2ca2af4d9a2e2ef94a41c591fe9ef13337e8d0d0e9ac19cd17894",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 45,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0045/canvas",
+      "label": "[21]r [45]",
+      "sha256": "9cb5577434343c65b6625d24d94c32cd9d03190bd97d1837cfc5e102634e6f42",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 46,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0046/canvas",
+      "label": "[21]v [46]",
+      "sha256": "851c1e156c337858a7246d2d5cc44d199e64ca56b491cb96a8b49f52efe281bd",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 47,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0047/canvas",
+      "label": "[22]r [47]",
+      "sha256": "9f9f9e86d8a144149cc42ccd61f1cf144d7eb5735e241976971e66e8847ce287",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 48,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0048/canvas",
+      "label": "[22]v [48]",
+      "sha256": "166b46723a485d660eb11a2b58a57e202cc69b143f0b08380892344a020fa181",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 49,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0049/canvas",
+      "label": "[23]r [49]",
+      "sha256": "ba72b6a28ad1e01bc483d886b47d46c1a02529fbdbdf1750c14b452db631ac5a",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 50,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0050/canvas",
+      "label": "[23]v [50]",
+      "sha256": "d7c80c291dfe013288b468962612984c1e6c1b89a2d5014174fc78b95c876384",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 51,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0051/canvas",
+      "label": "[24]r [51]",
+      "sha256": "dbc379285f06021dfc35474da91ea7465e2d3300e48b264de90a28f40599d919",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 52,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0052/canvas",
+      "label": "[24]v [52]",
+      "sha256": "992c459a15b2ade40c50dcb7efcd65c2ca24464d5442daeb925933c1f8f1752b",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 53,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0053/canvas",
+      "label": "[25]r [53]",
+      "sha256": "a1c6c1a670eae803771847bbd34394cc798a341d7bb2c5598e8404e42dc0ee60",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 54,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0054/canvas",
+      "label": "[25]v [54]",
+      "sha256": "f34269b25415e3b37334f8a86c3af61eb9771ab0fd9648f55b832bad158ccae0",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 55,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0055/canvas",
+      "label": "[26]r [55]",
+      "sha256": "9e9f569991f27c01c48d548998526c2a09f99e4019cf4a8ff496c4e3b67b2060",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 56,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0056/canvas",
+      "label": "[26]v [56]",
+      "sha256": "4f214a8d198f3e736bda4e6e5484fd0e1ac7c0e53b39ea07a9c341a31908ad94",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 57,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0057/canvas",
+      "label": "[27]r [57]",
+      "sha256": "7ddb76b17e0ae4904c29ce575333d3bbb59c0afa733a8aea49ab31a495fe8a84",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 58,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0058/canvas",
+      "label": "[27]v [58]",
+      "sha256": "3e771488adc870c76f3474b57ac1340b871a442367cdbfd2e2e0b10d703b04da",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 59,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0059/canvas",
+      "label": "[28]r [59]",
+      "sha256": "909ff19df21cb4504f1bdd39995a2fe32b475dfc86c67f2905771cab0af53c66",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 60,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0060/canvas",
+      "label": "[28]v [60]",
+      "sha256": "7a8e1e7c89b1f9acc86e559993b8eea429fffedbf0f8bf0b64af665f14e5d49c",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 61,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0061/canvas",
+      "label": "[29]r [61]",
+      "sha256": "fe33f562b7c9ba4307f91d8795a73739f038b74cd7738a0e2926ba514fe1d163",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 62,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0062/canvas",
+      "label": "[29]v [62]",
+      "sha256": "b0d370d263f19e6bd21debac018ebafc50c219dd5729345358ff054c8ef98f7f",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 63,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0063/canvas",
+      "label": "[30]r [63]",
+      "sha256": "9035cdce28262f3f3be6abdaa6a990006fcb5be1deaaf97934d0ecc52c748f55",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 64,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0064/canvas",
+      "label": "[30]v [64]",
+      "sha256": "9dc2a04885de8ab9fff17d20f280e72a64126a682c7a6a69c8624dd64e842bc5",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 65,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0065/canvas",
+      "label": "[31]r [65]",
+      "sha256": "a0f59bffef8bf33aa30df11cdfcc703578268e743689c86040b844af9b5445b9",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 66,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0066/canvas",
+      "label": "[31]v [66]",
+      "sha256": "b88786da4abcc5902624ed73ad1b45b767a90c4fe61a46e8c30af3822db22bdd",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 67,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0067/canvas",
+      "label": "[32]r [67]",
+      "sha256": "70baad7c239faaa2fd089343c2c7b803d619d5e6803441dfe895ceb7cab442db",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 68,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0068/canvas",
+      "label": "[32]v [68]",
+      "sha256": "4a810d36aaa73f1f10a8913bccf7da90cb4d927891ea6bd484c86390b8779e07",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 69,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0069/canvas",
+      "label": "[33]r [69]",
+      "sha256": "cd95d825d6631b4cb5ed80e9cbc4a3f104e87563d7ad929c8555890cc3e9021a",
+      "content_role": "clinical-notebook"
+    },
+    {
+      "image": 70,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0070/canvas",
+      "label": "[33]v [70]",
+      "sha256": "490c9ff0049a26d25c1e67353ba0e16f894156efa28cc7e27f17e72fd7225ba0",
+      "content_role": "binding-or-endpaper"
+    },
+    {
+      "image": 71,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0071/canvas",
+      "label": "[34]r [71]",
+      "sha256": "fceeb72f5e8b0866b1ef9e4c3da5b62b173b8df5cb75fb7a700ec64412c672d7",
+      "content_role": "calibration-repeat",
+      "duplicate_of_image": 4
+    }
+  ]
+}

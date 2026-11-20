@@ -1,0 +1,2659 @@
+{
+  "metadata": {
+    "title": "醫案",
+    "catalogue_title": "醫案",
+    "roman_title": "Yi an",
+    "author": "館目未列撰者；冊上數處題署分列。",
+    "date": "1920–1922（館目）。冊內明署抄寫日期 1921-07-02，為局部日期。",
+    "location": "德國柏林（現藏）；卷內若干地名指向上海。",
+    "repository": "柏林國家圖書館",
+    "repository_en": "Staatsbibliothek zu Berlin – Preußischer Kulturbesitz",
+    "collection": "Slg. Unschuld",
+    "shelfmark": "Slg. Unschuld 8368",
+    "catalogue": "https://resolver.staatsbibliothek-berlin.de/SBB0003559B00000000",
+    "rights": "https://lab.sbb.berlin/dc/",
+    "description": "1920年代漢文醫案手稿的逐幅定位，從可認讀的病例題頭、地名及抄記建立研究索引。",
+    "txt_reader_statement": "每幅以館方影像定位。這是病例題頭、地名及抄記的索引；統計以已辨識項目為單位。",
+    "tei_editorial_statement": "按館方影像次序列出案件題頭、地名及抄記。所有索引項及圖像指引為資料整理層。",
+    "manifest_url": "https://content.staatsbibliothek-berlin.de/dc/PPN1867481944/manifest",
+    "manifest_sha256": "8c7091544e0cde44dc92818c29f8000590d2d5dccd910183b82d3c4bc9c30802",
+    "record_id": "PPN1867481944",
+    "edition": "0.1.0",
+    "catalogue_main_scope": [
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "version": "0.1.0",
+    "dataset_title": "醫案（1920–1922 年，柏林國家圖書館 Slg. Unschuld 8368，病例索引） / Yi an [Medical case histories]: Case Locator Dataset",
+    "review_status": "initial-transcription",
+    "editor": {
+      "name": "Chu, Chen-Yu",
+      "orcid": "0009-0003-9738-6914"
+    }
+  },
+  "pages": [
+    {
+      "image": 1,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0001/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0001/full/full/0/default.png",
+      "label": " -  [1]",
+      "native_width": 2687,
+      "native_height": 4200,
+      "file": "01.jpg",
+      "bytes": 1706042,
+      "sha256": "ff5c609e693c4f5073d938469fe46b2747457250245525d05b2cf206a289e1f7",
+      "original_bytes": 26644858,
+      "original_sha256": "635f5af88bee8ed7b46b7fe62f53356e9309720452007e0711ab957329de013d",
+      "working_width": 1663,
+      "working_height": 2600,
+      "content_role": "binding-or-endpaper",
+      "state": "source-surface-indexed",
+      "source_text_state": "copy-metadata-transcribed",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copying-date",
+              "text": "辛酉仲夏前",
+              "location": "封面紀時題記",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "冊上題記或抄記事實，依可辨文字索引。"
+    },
+    {
+      "image": 2,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0002/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0002/full/full/0/default.png",
+      "label": " -  [2]",
+      "native_width": 2743,
+      "native_height": 4268,
+      "file": "02.jpg",
+      "bytes": 1426455,
+      "sha256": "9f9dbc636c7db1550e88169f5ea59a1076a4e79894f5ab6b73bb75e1263bd0ab",
+      "original_bytes": 24497155,
+      "original_sha256": "c93dc9286e568e4661b67b7eaddf3c453ba20c180f4e2d1281a61f2d0c9e6af9",
+      "working_width": 1671,
+      "working_height": 2600,
+      "content_role": "binding-or-endpaper",
+      "state": "source-surface-indexed",
+      "source_text_state": "blank-or-show-through",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "此影像有白面或反向透字，索引未列本面正文。"
+    },
+    {
+      "image": 3,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0003/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0003/full/full/0/default.png",
+      "label": " -  [3]",
+      "native_width": 2743,
+      "native_height": 4268,
+      "file": "03.jpg",
+      "bytes": 1488948,
+      "sha256": "7972265cc95db3ec2ab4cf4f8de37dbc872ad6bf6df004423ea844bb9d8726dc",
+      "original_bytes": 24845602,
+      "original_sha256": "263f3784008fa4c9bbdb0ab9e79633dc360b33875fa59e6ea0ce927c8deddef8",
+      "working_width": 1671,
+      "working_height": 2600,
+      "content_role": "binding-or-endpaper",
+      "state": "source-surface-indexed",
+      "source_text_state": "blank-or-show-through",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "此影像有白面或反向透字，索引未列本面正文。"
+    },
+    {
+      "image": 4,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0004/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0004/full/full/0/default.png",
+      "label": " -  [4]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "04.jpg",
+      "bytes": 1558620,
+      "sha256": "dd847e3124ac8e552c6ef11f4dc7e6d6bfaff1dadb66e8206a29b6dca94f54c4",
+      "original_bytes": 22873401,
+      "original_sha256": "ae8a9eb006d4b7720b7db425a9498b96a7975578bb16eb102dfa097c09972dcf",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "binding-or-endpaper",
+      "state": "source-surface-indexed",
+      "source_text_state": "copy-metadata-transcribed",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copying-date",
+              "text": "五月廿四日，星期三",
+              "location": "抄記所載日期，年未直署",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "冊上題記或抄記事實，依可辨文字索引。"
+    },
+    {
+      "image": 5,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0005/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0005/full/full/0/default.png",
+      "label": "[1]r [5]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "05.jpg",
+      "bytes": 1792851,
+      "sha256": "3f6238fd96c3115cae64b904ff1afd3f0c9e46f165dc53f17c9882fa7766cd58",
+      "original_bytes": 25060900,
+      "original_sha256": "698b4fa74cd7357eac3e322a4ade0a3eb149a86db7b2fe5ce86239099e49a17a",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "劉女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "南昌街",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "徐女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "石皮弄",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 6,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0006/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0006/full/full/0/default.png",
+      "label": "[1]v [6]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "06.jpg",
+      "bytes": 1786737,
+      "sha256": "a1b781193a6d3cefb41e9e47d640a874e6a5115ddeddd10516e9ea1e1fbdf22e",
+      "original_bytes": 24861677,
+      "original_sha256": "8eda37e6a072c21ac210645756e8b4ed6eee394af93e221f9430e5f4d3cfbd69",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "周女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 7,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0007/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0007/full/full/0/default.png",
+      "label": "[2]r [7]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "07.jpg",
+      "bytes": 1788483,
+      "sha256": "374a5144082841cbf602c08f822448a214b6a496427a4967fc1628f4ae386feb",
+      "original_bytes": 24919293,
+      "original_sha256": "8872f4a7580d7b326f40c782be1b5b5aaee64358a7e21f25d0da6134b61004af",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "劉女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 8,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0008/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0008/full/full/0/default.png",
+      "label": "[2]v [8]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "08.jpg",
+      "bytes": 1784927,
+      "sha256": "5fbf6076fd6b9002e7832997d8cf7d6177b49093f1df746ee3a96862c9a9fbf9",
+      "original_bytes": 24699116,
+      "original_sha256": "d292e0004e03a3ba58679290842781847fcca5c79b76e06ef57b63ef08a3b94b",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "馬男",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 9,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0009/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0009/full/full/0/default.png",
+      "label": "[3]r [9]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "09.jpg",
+      "bytes": 1801444,
+      "sha256": "7611104220d35cc2e1404d31e2397f5e2832aff532eedc4fd8aed344c5264ae3",
+      "original_bytes": 24956751,
+      "original_sha256": "db6185b12c9c4786068450f4de7abd3e7971743f03a088037afe0eba74913915",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "張女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 10,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0010/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0010/full/full/0/default.png",
+      "label": "[3]v [10]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "10.jpg",
+      "bytes": 1788909,
+      "sha256": "53f8ad83d1401d14e0f9a35ca63f045adbe8ce754a119e8e4ecafe41d3233374",
+      "original_bytes": 24763595,
+      "original_sha256": "c7e6550a956a6c52c721a14818c3a68368c5ae5a34cba3876166c02c15e7ebb2",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "徐左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "沈左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 11,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0011/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0011/full/full/0/default.png",
+      "label": "[4]r [11]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "11.jpg",
+      "bytes": 1775644,
+      "sha256": "e536a800551274fbc8bd936b2d5651e355041d7f1d5af5c96144aa3f2ecda27d",
+      "original_bytes": 24996846,
+      "original_sha256": "9c197407c45470b235698927d168bd49b82aa95ee0cfcaf43461e9ff80df0a0b",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 12,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0012/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0012/full/full/0/default.png",
+      "label": "[4]v [12]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "12.jpg",
+      "bytes": 1755180,
+      "sha256": "58fd9b8913d5535e25440a1321008a6e897b82dbcb9a57a12a7c6e0d5231d7e5",
+      "original_bytes": 24694324,
+      "original_sha256": "15cc21e1412f8d78eda9d0dc9b9d0239ed9bd1e075a3a30ed7fb97d4bd1d552a",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 13,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0013/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0013/full/full/0/default.png",
+      "label": "[5]r [13]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "13.jpg",
+      "bytes": 1781061,
+      "sha256": "9c793538d4a9cbc1083d55375dc30a64ed6e3cd9cff54e057ebf2d5b61f5c88e",
+      "original_bytes": 24942083,
+      "original_sha256": "060dfdb9fb3f6d1d8e0f8b7001f7f73f432f08d54b9adba52146e92cb4c42654",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 14,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0014/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0014/full/full/0/default.png",
+      "label": "[5]v [14]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "14.jpg",
+      "bytes": 1809998,
+      "sha256": "e84ab08aa426ac6fdfa4dd8ccc7685c0427f2247296db4d0ede14c0f6813e4bc",
+      "original_bytes": 24885455,
+      "original_sha256": "49549e16781b852ebb153ed435e93b6d778c62089fdeef9b4013a078e6a467c4",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "沈左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "浦東",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "張左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 15,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0015/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0015/full/full/0/default.png",
+      "label": "[6]r [15]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "15.jpg",
+      "bytes": 1779935,
+      "sha256": "75563d7b785da87dccb984fc1480948109039c4a9dbf424149e22a071417b267",
+      "original_bytes": 24894325,
+      "original_sha256": "848320faef6bf43e348502c61862861780080a5860c479aa77efbb54a539d9dd",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "place-label",
+              "text": "小西門",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 16,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0016/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0016/full/full/0/default.png",
+      "label": "[6]v [16]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "16.jpg",
+      "bytes": 1760168,
+      "sha256": "794c97147582419ba1c251325fda071d74a0da61fed88191ab9c259b685f1821",
+      "original_bytes": 24590687,
+      "original_sha256": "c8d07620346af336b1b447f827b2856bf19de22dd9b3011e61c00695ff7af000",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "place-label",
+              "text": "大東門",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 17,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0017/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0017/full/full/0/default.png",
+      "label": "[7]r [17]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "17.jpg",
+      "bytes": 1731511,
+      "sha256": "31e300c1eb02c1e6507000f396b443e13db1ccec5dce66e5a2ce6074e03bf12a",
+      "original_bytes": 24657826,
+      "original_sha256": "a746f8d29ee0ffcb300c39f921771fbeced86b26e01801c9539fa4255e455b90",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "張左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "大東門",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "王婦",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 18,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0018/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0018/full/full/0/default.png",
+      "label": "[7]v [18]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "18.jpg",
+      "bytes": 1758892,
+      "sha256": "425ffe040c8029b505abfe114a91c3a49a8c215221cc0d57a4677ed66f130674",
+      "original_bytes": 24640194,
+      "original_sha256": "69f64a2637b8c9170a0bed8191dbe31209c58829e97f15b37c6fe540a5eead47",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "place-label",
+              "text": "石皮弄",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 19,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0019/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0019/full/full/0/default.png",
+      "label": "[8]r [19]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "19.jpg",
+      "bytes": 1699192,
+      "sha256": "74b2687597dc4e894cc3ace8e359313ec5ba74f8cbac653e525991d181de816f",
+      "original_bytes": 24220042,
+      "original_sha256": "880d6384781f114aeebeaaf7f7ba87671a6c1ba2d4ffbb4370e6d1ea9dd1f83c",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "copying-date",
+              "text": "1921-07-02",
+              "location": "卷內明載中華民國十年，合陽曆七月二日星期六",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 20,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0020/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0020/full/full/0/default.png",
+      "label": "[8]v [20]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "20.jpg",
+      "bytes": 1702574,
+      "sha256": "8ab3258844f06734f8d109104a9c0494a1d7c68b9b815ea2d3fa029e186446bf",
+      "original_bytes": 24388597,
+      "original_sha256": "1166b9b21ec3b560824a5e5051599dc3139fc082d389027d6cd20bd3750f6275",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "place-label",
+              "text": "大東門",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "石皮弄",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 21,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0021/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0021/full/full/0/default.png",
+      "label": "[9]r [21]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "21.jpg",
+      "bytes": 1769820,
+      "sha256": "42ef85780c47c7c021ae2bf2ab04d45ef19f463bdadbd4ad4244ccdcb44d7b6c",
+      "original_bytes": 24810068,
+      "original_sha256": "f18ea3485c669fb7803767176aff4bd738b23f977f83f5335cf6bacff9e0f2f2",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "沈女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 22,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0022/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0022/full/full/0/default.png",
+      "label": "[9]v [22]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "22.jpg",
+      "bytes": 1755602,
+      "sha256": "7b4c36194c77d01dc4166cc74a9b4e190d19bbbf32a16b1313a357bda5267dee",
+      "original_bytes": 24562368,
+      "original_sha256": "0986a2a89e4a1ffb48baad6400f0525b553a19670d6214c9a81315d3372d912e",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "陳女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "張女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 23,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0023/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0023/full/full/0/default.png",
+      "label": "[10]r [23]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "23.jpg",
+      "bytes": 1735222,
+      "sha256": "e56260dbd519cd7f98d251fef049a7488766ee3f6ee5ee1751f97c02dad0ba02",
+      "original_bytes": 24469752,
+      "original_sha256": "cfa6c6e69b9f319ed9b0e9ab0929c330e7da7b9b5c1eafcd63536d7a188ac9f4",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "周婦",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 24,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0024/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0024/full/full/0/default.png",
+      "label": "[10]v [24]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "24.jpg",
+      "bytes": 1720318,
+      "sha256": "492d891f788f565d03474b5317ac293427eb18112bde30de768856cf5a62d255",
+      "original_bytes": 24467790,
+      "original_sha256": "87981c012e144dbfc6387a193ab2e1dc07540a130121c681e84db76e4aead200",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 25,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0025/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0025/full/full/0/default.png",
+      "label": "[11]r [25]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "25.jpg",
+      "bytes": 1700304,
+      "sha256": "1e28ac0e11babeb355c47d1f16e222d9994ad5dada4a74ceb2b58b5377d984d8",
+      "original_bytes": 24363362,
+      "original_sha256": "f9bfd675c35649b9a1865dd2508d23fb1f0257f4b3f0117515fc3763914992ad",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 26,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0026/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0026/full/full/0/default.png",
+      "label": "[11]v [26]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "26.jpg",
+      "bytes": 1697866,
+      "sha256": "07ac8fa834bcfb63ca993b5134e04f0dd2a4826ea087c8f640230eb0dcd14ee8",
+      "original_bytes": 24339092,
+      "original_sha256": "5b64476be37e34f8023e92e18f6ef7fb4a7514e80b0038212bb868a8a27f9765",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "顧左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 27,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0027/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0027/full/full/0/default.png",
+      "label": "[12]r [27]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "27.jpg",
+      "bytes": 1735021,
+      "sha256": "cf8a4bf2ae44952b9a55bdf3bd3857ed7b4fcfbd7fb3b6630ddb83e584c3cd3c",
+      "original_bytes": 24834546,
+      "original_sha256": "86600527d47d5b055ae212656eef88c8b46617d09c630b45c6b8e7b14f84badb",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "劉婦",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "高左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 28,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0028/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0028/full/full/0/default.png",
+      "label": "[12]v [28]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "28.jpg",
+      "bytes": 1740738,
+      "sha256": "017c9b1b428e7cee63f337b05bbcfdf2701c52b5b5a07e7fccb224c4fe9aea75",
+      "original_bytes": 24738088,
+      "original_sha256": "a9aa03ebb8a9c92b2ce54c1a1c7b60e045359a57ad5581fc35ff8252574ff779",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "朱左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "王左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 29,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0029/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0029/full/full/0/default.png",
+      "label": "[13]r [29]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "29.jpg",
+      "bytes": 1734836,
+      "sha256": "6748ec7ba2beb0aa5c8173517adf1ccdb9b814f8591321510d10b72c71ff3287",
+      "original_bytes": 24784110,
+      "original_sha256": "9c5165e2f1d7af324a85f27c066bd9d1059a9d9d0f1bad27c51296318dcd1289",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 30,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0030/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0030/full/full/0/default.png",
+      "label": "[13]v [30]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "30.jpg",
+      "bytes": 1751128,
+      "sha256": "d5b6e3e96fcd7f121cd5383d20a6534b610754838da658d676ae42152d426e2d",
+      "original_bytes": 24524897,
+      "original_sha256": "cab9c402753b757ec7b2fc23cc5b21b59e901a129755d09ff0b9cd5e34e81363",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "王女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 31,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0031/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0031/full/full/0/default.png",
+      "label": "[14]r [31]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "31.jpg",
+      "bytes": 1775329,
+      "sha256": "39ad2c127a3c14d33763ba7d0a5052f54c923490dc24bf06bfd8cf78ed7f7b64",
+      "original_bytes": 24744158,
+      "original_sha256": "ff8a49a2a5cf72269a204570316538c769f2a5f929683edec366093c92b0ca3f",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "戴幼",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "陳女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "陸家浜",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 32,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0032/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0032/full/full/0/default.png",
+      "label": "[14]v [32]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "32.jpg",
+      "bytes": 1785189,
+      "sha256": "742867ec4c8f0cfa349aa9f4a93c780b183241f4a7abb88a48301aa978fc6277",
+      "original_bytes": 24690268,
+      "original_sha256": "aba9b42c32dbd8a0b89c42020b96dbbd2dc5830fa4b5aa368fea538e9ecbfd8b",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "錢左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "花園里",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 33,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0033/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0033/full/full/0/default.png",
+      "label": "[15]r [33]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "33.jpg",
+      "bytes": 1853388,
+      "sha256": "ca81b11a423c4054630fbb1665e5626b4acd8c0c4235330ccc9201cc793ff0d1",
+      "original_bytes": 25276461,
+      "original_sha256": "5a88aea7f6ef7c5488aa5ae5f3a8b3375bb7df504c9b38273f7e44fbeaa04c7d",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "潘左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 34,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0034/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0034/full/full/0/default.png",
+      "label": "[15]v [34]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "34.jpg",
+      "bytes": 1825704,
+      "sha256": "b9e52bdbb4e7a8e6b29e44895e99d6937d5788056fed89acddbf4986f3404dca",
+      "original_bytes": 25033545,
+      "original_sha256": "f72182e9762c2b39e5bdd598067b6e343d01a9d0eea4f036e8eac4cde34d3471",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 35,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0035/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0035/full/full/0/default.png",
+      "label": "[16]r [35]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "35.jpg",
+      "bytes": 1825177,
+      "sha256": "21f1d2233154ab59d7d30605cc0894cda136b8aae74f44d5ef0170d999bebbba",
+      "original_bytes": 25127249,
+      "original_sha256": "f90bd111b8bcc37ac72b16ac1d058aee22afeaab33abc1b36f8f57961d4e1a99",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "陳左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "王左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 36,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0036/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0036/full/full/0/default.png",
+      "label": "[16]v [36]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "36.jpg",
+      "bytes": 1805587,
+      "sha256": "9952d7fee42ee9099ce46b26e2a290bf637bd26da859584b7e6ff51065141ee0",
+      "original_bytes": 24899874,
+      "original_sha256": "b40a76853edf72a530b8925f4196dd3598c258a116c92f279d6b7791af57a62f",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "王婦",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "錢左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 37,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0037/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0037/full/full/0/default.png",
+      "label": "[17]r [37]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "37.jpg",
+      "bytes": 1757424,
+      "sha256": "7679c3153a76889b6e5dd62f90947738d0c0c67895c385d8d59f056f43481a78",
+      "original_bytes": 24681947,
+      "original_sha256": "5b666fc44881d47c2f3ffab0e43e903152d237c8853453a765645a62e378e4e4",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "周女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 38,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0038/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0038/full/full/0/default.png",
+      "label": "[17]v [38]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "38.jpg",
+      "bytes": 1717977,
+      "sha256": "9b6b1420bcdd670cece9eae2f3e195e6ae6d2b7c47eb86b7499c194fe996d054",
+      "original_bytes": 24273882,
+      "original_sha256": "544d98e39fccb2d3f99d3445a3ddb2c32fa5e2fa73ae259e21104db6a7cd6fa8",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "陳左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 39,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0039/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0039/full/full/0/default.png",
+      "label": "[18]r [39]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "39.jpg",
+      "bytes": 1709877,
+      "sha256": "085a9f0f1f6a2a3d92b891626aae013b44347373b022857bca0aca3b7766a6ca",
+      "original_bytes": 24416227,
+      "original_sha256": "b7a7f30f90993b8c6ab399b953c05c455461efc13adfc63e3b0d1dd8d3774934",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 40,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0040/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0040/full/full/0/default.png",
+      "label": "[18]v [40]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "40.jpg",
+      "bytes": 1790709,
+      "sha256": "9231d72e3c91953daac32a66a56da5c190925ef301e780beebf4f41773cfc735",
+      "original_bytes": 24701813,
+      "original_sha256": "e6291229b2c966b3561b1890db65410f39a8191706f064c3c0cbead6da142f3e",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "孫左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 41,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0041/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0041/full/full/0/default.png",
+      "label": "[19]r [41]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "41.jpg",
+      "bytes": 1791490,
+      "sha256": "98a505743526142c5f550c4ef5a2212ebfdf4f28fb903c5c6898d8a3ec6bad74",
+      "original_bytes": 24630936,
+      "original_sha256": "cbf5ded72aac233a461c6b4e7a903217ad6414933112a2c1c697cf50dd26518f",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "陳左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 42,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0042/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0042/full/full/0/default.png",
+      "label": "[19]v [42]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "42.jpg",
+      "bytes": 1762174,
+      "sha256": "ceb0d0cc75f363266b2d37098ac3ec70cc4e0af75674b69ab132df2c1968ab4c",
+      "original_bytes": 24326243,
+      "original_sha256": "f88bd3cb0220542c61ca21ee5a071bcbf03b8fe40af5ca8e04459be6b8011265",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "蔡婦",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 43,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0043/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0043/full/full/0/default.png",
+      "label": "[20]r [43]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "43.jpg",
+      "bytes": 1782578,
+      "sha256": "6c324c668ad3ab566d9698a1f56b046a9097dcd6b0e64e7f6be6ff9d87bd694e",
+      "original_bytes": 24529499,
+      "original_sha256": "6e81f1cd89bb87e4c5a080fa9f77ebe5ec8f64659bf60a4d7f98b2e1d7d56b9f",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "高左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "曾左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "朱女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "大東門",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 44,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0044/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0044/full/full/0/default.png",
+      "label": "[20]v [44]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "44.jpg",
+      "bytes": 1803939,
+      "sha256": "25fbceedb0f2ca2af4d9a2e2ef94a41c591fe9ef13337e8d0d0e9ac19cd17894",
+      "original_bytes": 24581125,
+      "original_sha256": "5487830fb106f5d9400b81f48818811f77d2eef3c39472cf04e9edd0f68cf742",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "王左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 45,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0045/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0045/full/full/0/default.png",
+      "label": "[21]r [45]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "45.jpg",
+      "bytes": 1754441,
+      "sha256": "9cb5577434343c65b6625d24d94c32cd9d03190bd97d1837cfc5e102634e6f42",
+      "original_bytes": 24343877,
+      "original_sha256": "f26c81aeea3b5374cc71dcf167038f8436143715bdbaa638895c6b018dea1604",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 46,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0046/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0046/full/full/0/default.png",
+      "label": "[21]v [46]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "46.jpg",
+      "bytes": 1738648,
+      "sha256": "851c1e156c337858a7246d2d5cc44d199e64ca56b491cb96a8b49f52efe281bd",
+      "original_bytes": 24272532,
+      "original_sha256": "e2ad145adb8fbec7723889e2243a690aecd10341f7976754de484a289a301611",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "沈左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 47,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0047/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0047/full/full/0/default.png",
+      "label": "[22]r [47]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "47.jpg",
+      "bytes": 1785157,
+      "sha256": "9f9f9e86d8a144149cc42ccd61f1cf144d7eb5735e241976971e66e8847ce287",
+      "original_bytes": 24622508,
+      "original_sha256": "f264d50b022ad9dbcab2b0d7ca68b6ac415cd9d3cca64ea2c7e873bfffcec577",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "宣右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "楊右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "小西門",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 48,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0048/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0048/full/full/0/default.png",
+      "label": "[22]v [48]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "48.jpg",
+      "bytes": 1772656,
+      "sha256": "166b46723a485d660eb11a2b58a57e202cc69b143f0b08380892344a020fa181",
+      "original_bytes": 24396853,
+      "original_sha256": "b2ef4a80c4e78fd6e19db067c72cf10c6edbee66305f784bc2b821e67139f4e9",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "陳右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "楊右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 49,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0049/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0049/full/full/0/default.png",
+      "label": "[23]r [49]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "49.jpg",
+      "bytes": 1799081,
+      "sha256": "ba72b6a28ad1e01bc483d886b47d46c1a02529fbdbdf1750c14b452db631ac5a",
+      "original_bytes": 24787621,
+      "original_sha256": "134cf9bd72ff5005d527eb0c653435421b18d11f63df7ab7adc387da51c238fc",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "夏右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 50,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0050/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0050/full/full/0/default.png",
+      "label": "[23]v [50]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "50.jpg",
+      "bytes": 1757586,
+      "sha256": "d7c80c291dfe013288b468962612984c1e6c1b89a2d5014174fc78b95c876384",
+      "original_bytes": 24395810,
+      "original_sha256": "f0d0efcca1974221e44ed7d9a07fc857cc82d444562881448a95178c55525810",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "朱女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "王女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 51,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0051/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0051/full/full/0/default.png",
+      "label": "[24]r [51]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "51.jpg",
+      "bytes": 1736391,
+      "sha256": "dbc379285f06021dfc35474da91ea7465e2d3300e48b264de90a28f40599d919",
+      "original_bytes": 24255700,
+      "original_sha256": "7743459fff27a329341fc5b17cd04d460ec1e7514d89e36915ea563f1b27af58",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "馬女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "馮女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 52,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0052/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0052/full/full/0/default.png",
+      "label": "[24]v [52]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "52.jpg",
+      "bytes": 1760086,
+      "sha256": "992c459a15b2ade40c50dcb7efcd65c2ca24464d5442daeb925933c1f8f1752b",
+      "original_bytes": 24320404,
+      "original_sha256": "97a07d11b021d745a213c611bf91fb526fdc0bd4eef024dffbc445e9b3588b1d",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "楊右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "季家弄",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 53,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0053/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0053/full/full/0/default.png",
+      "label": "[25]r [53]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "53.jpg",
+      "bytes": 1809821,
+      "sha256": "a1c6c1a670eae803771847bbd34394cc798a341d7bb2c5598e8404e42dc0ee60",
+      "original_bytes": 24936018,
+      "original_sha256": "42e0d0a5e18f3a315c53b3e08fa5244cde6aaca72c37b5f5ea76d46878a67640",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "周右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "楊右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "小西門",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 54,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0054/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0054/full/full/0/default.png",
+      "label": "[25]v [54]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "54.jpg",
+      "bytes": 1804828,
+      "sha256": "f34269b25415e3b37334f8a86c3af61eb9771ab0fd9648f55b832bad158ccae0",
+      "original_bytes": 24682599,
+      "original_sha256": "113c8648b20f81e3bae5931179970b24581ba4fe4c5a75587a872ea0c4b2e4c1",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "place-label",
+              "text": "石皮弄",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 55,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0055/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0055/full/full/0/default.png",
+      "label": "[26]r [55]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "55.jpg",
+      "bytes": 1715208,
+      "sha256": "9e9f569991f27c01c48d548998526c2a09f99e4019cf4a8ff496c4e3b67b2060",
+      "original_bytes": 24179530,
+      "original_sha256": "f8828c6f3be737495cd6f252b05348f47310c9169b494b999713d39182af60fd",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "朱右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 56,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0056/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0056/full/full/0/default.png",
+      "label": "[26]v [56]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "56.jpg",
+      "bytes": 1657058,
+      "sha256": "4f214a8d198f3e736bda4e6e5484fd0e1ac7c0e53b39ea07a9c341a31908ad94",
+      "original_bytes": 23564659,
+      "original_sha256": "09c8eec17f200ceeb251f0b3acd0c7f8f8c7f5f15876ac4645739113f5e8b19e",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "王右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "石皮弄",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 57,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0057/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0057/full/full/0/default.png",
+      "label": "[27]r [57]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "57.jpg",
+      "bytes": 1882041,
+      "sha256": "7ddb76b17e0ae4904c29ce575333d3bbb59c0afa733a8aea49ab31a495fe8a84",
+      "original_bytes": 25419819,
+      "original_sha256": "290d027c159b87457fe13eb9437c3d6ac9f0f95b8d216ba002c6fd64a8f255dd",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "蔡婦",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "季家弄",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 58,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0058/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0058/full/full/0/default.png",
+      "label": "[27]v [58]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "58.jpg",
+      "bytes": 1834201,
+      "sha256": "3e771488adc870c76f3474b57ac1340b871a442367cdbfd2e2e0b10d703b04da",
+      "original_bytes": 25090189,
+      "original_sha256": "e8153921ea4ca2da76b347442e97f0ddbcbfb43a75882b7cd55ecded872880f3",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 59,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0059/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0059/full/full/0/default.png",
+      "label": "[28]r [59]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "59.jpg",
+      "bytes": 1808385,
+      "sha256": "909ff19df21cb4504f1bdd39995a2fe32b475dfc86c67f2905771cab0af53c66",
+      "original_bytes": 25120290,
+      "original_sha256": "4f86bdf084fc5ab11260cfb865e35b8fc266652773302dbd9270fbbb60ab466c",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "馬女",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "case-heading",
+              "text": "王右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 60,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0060/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0060/full/full/0/default.png",
+      "label": "[28]v [60]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "60.jpg",
+      "bytes": 1765010,
+      "sha256": "7a8e1e7c89b1f9acc86e559993b8eea429fffedbf0f8bf0b64af665f14e5d49c",
+      "original_bytes": 24692237,
+      "original_sha256": "fe5bdc2293aef59796a9f97097c2fc02fa14f8952f2801701edeb7656faa66c7",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 61,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0061/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0061/full/full/0/default.png",
+      "label": "[29]r [61]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "61.jpg",
+      "bytes": 1738549,
+      "sha256": "fe33f562b7c9ba4307f91d8795a73739f038b74cd7738a0e2926ba514fe1d163",
+      "original_bytes": 24304852,
+      "original_sha256": "e0d3f9890dc1573d6cd1466f8ef19a525d84a2d6d0017c41c1f024e38ef31fc7",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "唐右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 62,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0062/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0062/full/full/0/default.png",
+      "label": "[29]v [62]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "62.jpg",
+      "bytes": 1781952,
+      "sha256": "b0d370d263f19e6bd21debac018ebafc50c219dd5729345358ff054c8ef98f7f",
+      "original_bytes": 24616730,
+      "original_sha256": "418e013c44a3410454b8d784d344df3e6291330af728319c357283b5bebd0d86",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 63,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0063/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0063/full/full/0/default.png",
+      "label": "[30]r [63]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "63.jpg",
+      "bytes": 1498225,
+      "sha256": "9035cdce28262f3f3be6abdaa6a990006fcb5be1deaaf97934d0ecc52c748f55",
+      "original_bytes": 22429498,
+      "original_sha256": "591af33ec974189b15563f7bca4c651aa6a290a7829b2a6ea9cb867e495fdc38",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "surface-assessed-no-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 64,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0064/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0064/full/full/0/default.png",
+      "label": "[30]v [64]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "64.jpg",
+      "bytes": 1483220,
+      "sha256": "9dc2a04885de8ab9fff17d20f280e72a64126a682c7a6a69c8624dd64e842bc5",
+      "original_bytes": 22245678,
+      "original_sha256": "cb73573f16bafdd781d625af6472552e446db6f79b29ad35dbbc01c1e4e8fba9",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 65,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0065/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0065/full/full/0/default.png",
+      "label": "[31]r [65]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "65.jpg",
+      "bytes": 1587146,
+      "sha256": "a0f59bffef8bf33aa30df11cdfcc703578268e743689c86040b844af9b5445b9",
+      "original_bytes": 23090370,
+      "original_sha256": "412d931026632a025d39ad1c93e54ef71fb0fd4d4334186e675f4ad17c7f328b",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "王右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 66,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0066/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0066/full/full/0/default.png",
+      "label": "[31]v [66]",
+      "native_width": 2598,
+      "native_height": 4268,
+      "file": "66.jpg",
+      "bytes": 1526398,
+      "sha256": "b88786da4abcc5902624ed73ad1b45b767a90c4fe61a46e8c30af3822db22bdd",
+      "original_bytes": 22548954,
+      "original_sha256": "b0cfaf2b5f30edbafee7d32eeffdc547ff7cbac2e591205ee582ee36e69c5836",
+      "working_width": 1583,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "沈左",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 67,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0067/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0067/full/full/0/default.png",
+      "label": "[32]r [67]",
+      "native_width": 2618,
+      "native_height": 4268,
+      "file": "67.jpg",
+      "bytes": 1745027,
+      "sha256": "70baad7c239faaa2fd089343c2c7b803d619d5e6803441dfe895ceb7cab442db",
+      "original_bytes": 24797106,
+      "original_sha256": "cdf3db93e6bf95736cefcf09bfcbf91667ffc123bee3197c2fe3613495eae853",
+      "working_width": 1595,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "張右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            },
+            {
+              "type": "place-label",
+              "text": "南昌街",
+              "location": "方位或地名候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 68,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0068/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0068/full/full/0/default.png",
+      "label": "[32]v [68]",
+      "native_width": 2695,
+      "native_height": 4268,
+      "file": "68.jpg",
+      "bytes": 1488771,
+      "sha256": "4a810d36aaa73f1f10a8913bccf7da90cb4d927891ea6bd484c86390b8779e07",
+      "original_bytes": 23735557,
+      "original_sha256": "c784c697434264f3118cae50a4a6aa9c3cd54e407c8dbd1882b3af91e569e358",
+      "working_width": 1642,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "surface-assessed-no-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 69,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0069/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0069/full/full/0/default.png",
+      "label": "[33]r [69]",
+      "native_width": 2685,
+      "native_height": 4268,
+      "file": "69.jpg",
+      "bytes": 1816563,
+      "sha256": "cd95d825d6631b4cb5ed80e9cbc4a3f104e87563d7ad929c8555890cc3e9021a",
+      "original_bytes": 26118362,
+      "original_sha256": "92fcb5d0983434cef3592c07ba68d81ec651778c99b19165afc7b40ee703603f",
+      "working_width": 1636,
+      "working_height": 2600,
+      "content_role": "clinical-notebook",
+      "state": "source-surface-indexed",
+      "source_text_state": "partial-transcription",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": [
+            {
+              "type": "case-heading",
+              "text": "張右",
+              "location": "病例題頭候讀",
+              "column_anchor": null,
+              "color": "unknown"
+            }
+          ]
+        }
+      ],
+      "issues": [],
+      "observations": "以可辨題頭與地名作原圖探索。此面仍可能另有待辨的個案。"
+    },
+    {
+      "image": 70,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0070/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0070/full/full/0/default.png",
+      "label": "[33]v [70]",
+      "native_width": 2743,
+      "native_height": 4268,
+      "file": "70.jpg",
+      "bytes": 1501199,
+      "sha256": "490c9ff0049a26d25c1e67353ba0e16f894156efa28cc7e27f17e72fd7225ba0",
+      "original_bytes": 24673788,
+      "original_sha256": "7e53bd0a48f690dad97a101f4abdd8b456118aa4c097d588c27652b92a0811b5",
+      "working_width": 1671,
+      "working_height": 2600,
+      "content_role": "binding-or-endpaper",
+      "state": "source-surface-indexed",
+      "source_text_state": "blank-or-show-through",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "此影像有白面或反向透字，索引未列本面正文。"
+    },
+    {
+      "image": 71,
+      "canvas_id": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0071/canvas",
+      "image_url": "https://content.staatsbibliothek-berlin.de/dc/1867481944-0071/full/full/0/default.png",
+      "label": "[34]r [71]",
+      "native_width": 2626,
+      "native_height": 4268,
+      "file": "71.jpg",
+      "bytes": 1325160,
+      "sha256": "fceeb72f5e8b0866b1ef9e4c3da5b62b173b8df5cb75fb7a700ec64412c672d7",
+      "original_bytes": 21471541,
+      "original_sha256": "2b0d85069fda2e6737bd189f23f3f51d3572642f62623fed97a9a32f12020815",
+      "working_width": 1600,
+      "working_height": 2600,
+      "content_role": "calibration-repeat",
+      "duplicate_of_image": 4,
+      "include_in_primary_reading_order": false,
+      "state": "source-surface-indexed",
+      "source_text_state": "repeat-calibration",
+      "sides": [
+        {
+          "side": "single",
+          "columns": [],
+          "extras": []
+        }
+      ],
+      "issues": [],
+      "observations": "第 4 幅抄記葉的色卡重拍，色卡覆蓋部分墨筆。"
+    }
+  ]
+}
