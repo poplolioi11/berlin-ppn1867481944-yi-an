@@ -4,10 +4,10 @@
   "source": "https://resolver.staatsbibliothek-berlin.de/SBB0003559B00000000",
   "iiif_manifest": "https://content.staatsbibliothek-berlin.de/dc/PPN1867481944/manifest",
   "source_rights_policy": "https://lab.sbb.berlin/dc/",
-  "dataset_version": "0.1.0",
+  "dataset_version": "0.2.0",
   "scan_count": 71,
   "content_scan_count": 71,
-  "review_status": "initial-transcription",
+  "review_status": "targeted-image-adjudication",
   "source_image_inventory": [
     {
       "image": 1,

@@ -4,11 +4,11 @@
 
 Yi an is a Chinese medical case notebook dated 1920–1922 in the Staatsbibliothek zu Berlin. It contains consultation notes, place labels and dated copying inscriptions, including one dated 2 July 1921. This source-linked finding aid supports navigation to selected case headings, place names and copying dates.
 
-## V0.1.0
+## V0.2.0
 
-71 幅皆有原件定位，收錄部分可辨題頭、坊巷名與抄記。AI 輔助定位初版。病例題頭與地名可循原圖核對。
+71 幅皆有原件定位，收錄部分可辨題頭、坊巷名與抄記。本版回圖採用 1 筆索引補正，附逐幅定位。
 
-All 71 scans are indexed. Selected case headings, place labels and copying dates are included. AI-assisted initial finding aid with source-image references for selected case headings and place names.
+All 71 scans are indexed. Selected case headings, place labels and copying dates are included. Image review added 1 factual index correction.
 
 ## 資料與原件 / Data and source
 

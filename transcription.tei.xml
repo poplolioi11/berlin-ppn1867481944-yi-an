@@ -12,10 +12,10 @@
         </respStmt>
       </titleStmt>
       <editionStmt>
-        <edition>Transcription dataset v0.1.0</edition>
+        <edition>Transcription dataset v0.2.0</edition>
       </editionStmt>
       <publicationStmt>
-        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.1.0.</p>
+        <p>曲宸宇 (Chu, Chen-Yu). Dataset edition 0.2.0.</p>
       </publicationStmt>
       <sourceDesc>
         <msDesc>
@@ -1166,6 +1166,10 @@
             <ab type="page-feature" subtype="case-heading">
               <label>病例題頭候讀</label>
               <seg type="diplomatic-text" rend="unknown">張右</seg>
+            </ab>
+            <ab type="page-feature" subtype="place-label">
+              <label>回圖確讀地名</label>
+              <seg type="diplomatic-text" rend="unknown">獅子街</seg>
             </ab>
           </div>
           <div type="editorial-observations">
